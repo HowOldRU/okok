@@ -1,0 +1,11 @@
+elasticsearch>=8.13,<9
+fastapi
+uvicorn[standard]
+langchain
+python-multipart
+uvicorn
+pandas
+python-docx
+pydantic
+openpyxl
+camelot
